@@ -1,6 +1,6 @@
 # Nodit Token tutorial
 
-Welcome! This is the Nodit Token tutorial. In this tutorial, you can experience a simple Token explorer DApp made using the Nodit Web3 data API. Execute the DApp and develop your own functions using other Nodit API!
+Welcome! This is the Nodit Token tutorial. In this tutorial, you can experience a simple Token Tracker DApp made using the Nodit Web3 data API. Execute the DApp and develop your own functions using other Nodit API!
 
 ## Set up modules
 
