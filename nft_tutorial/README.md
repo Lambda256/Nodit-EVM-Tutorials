@@ -1,4 +1,4 @@
-# Nodit NFT tutorial
+# Nodit NFT Tutorial
 
 Welcome! This is the Nodit NFT tutorial. In this tutorial, you can experience a simple NFT explorer DApp made using the Nodit Web3 data API. Execute the DApp and develop your own functions using other Nodit API!
 
