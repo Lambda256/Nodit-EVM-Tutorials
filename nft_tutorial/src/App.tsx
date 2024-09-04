@@ -6,7 +6,6 @@ import Main from "./pages/main/Main";
 import NftDetail from "./pages/nft-detail/NftDetail";
 import NotFound from "./pages/not-found/Notfound";
 import "./App.css";
-import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 
 const queryClient = new QueryClient();
 
@@ -24,7 +23,6 @@ const App = (): React.ReactElement => {
           <Route path="*" element={<NotFound />} />
         </Routes>
       </Router>
-      <ReactQueryDevtools initialIsOpen />
     </QueryClientProvider>
   );
 };
